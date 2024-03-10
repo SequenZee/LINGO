@@ -1,4 +1,4 @@
 .env
 faiss_index/
 venv/
-.DS_Store
+**/.DS_Store
