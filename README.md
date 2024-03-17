@@ -62,7 +62,11 @@ streamlit run chatpdf1.py
 
 Before running the application, ensure you have set up your environment variables, particularly the GOOGLE_API_KEY, which is required for accessing Google's Generative AI capabilities. You can set this key in a .env file in the same directory as the script.
 
+## Hosting
 
+- Render
+
+  🔗  [LINGO - Visit site](https://lingo-d0hl.onrender.com/)
 
 ## Output
 
